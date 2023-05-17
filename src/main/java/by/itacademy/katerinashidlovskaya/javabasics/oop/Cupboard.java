@@ -5,4 +5,7 @@ public class Cupboard {
     String material;
     int height;
     int width;
+
+    Door door;
+    Shelf shelf;
 }

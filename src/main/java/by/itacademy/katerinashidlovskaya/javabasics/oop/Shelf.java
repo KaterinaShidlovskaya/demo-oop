@@ -1,7 +1,7 @@
 package by.itacademy.katerinashidlovskaya.javabasics.oop;
 
 public class Shelf {
-    int number;
+    int numberOfShelves;
     String material;
     boolean hasIllumination;
 }
